@@ -11,6 +11,10 @@ Can be used via the CSK FlowConfig feature but can be configured manually via it
 
 For further information check out the [documentation](https://raw.githack.com/SICKAppSpaceCodingStarterKit/CSK_Module_Dashboard/main/docu/CSK_Module_Dashboard.html) in the folder "docu".
 
+## Dependencies
+
+To build this app with SICK AppStudio or SICK AppSpace SDK you need to use the extended UI library, available e.g. here: https://support.sick.com/sick-knowledgebase/article/?code=KA-09745
+
 ## Information
 
 Tested on:
