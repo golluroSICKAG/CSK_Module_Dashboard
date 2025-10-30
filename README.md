@@ -1,22 +1,26 @@
 # CSK_Module_Dashboard
-## INFO: Draft version. Not further developed / tested so far! Check for available GitHub forks of this repository to see latest updates.
 
 Module to dynamically show values provided by other SensorApps to show on a UI. 
 Can be used via the CSK FlowConfig feature but can be configured manually via its UI as well.
 
-*If available, please also add a screenshot/gif of the UI of the module here placed within /docu/media/ (see code)*
 ![](./docu/media/UI_Screenshot.png)
 
 ## How to Run
 
 For further information check out the [documentation](https://raw.githack.com/SICKAppSpaceCodingStarterKit/CSK_Module_Dashboard/main/docu/CSK_Module_Dashboard.html) in the folder "docu".
 
+## Dependencies
+
+To build this app via AppStudio / VS Code SICK AppSpace SDK its UI builder needs to use the extended control library, available e.g. here:  
+https://support.sick.com/sick-knowledgebase/article/?code=KA-09745
+
 ## Information
 
 Tested on:
 |Device|Firmware|Module version
 |--|--|--|
-|SIM300|V1.1.0|V0.3.0|
+|SIM300|V1.1.0|V1.0.0|
+|SICK AppEngine|V1.8.0|V1.0.0|
 
 This module is part of the SICK AppSpace Coding Starter Kit developing approach.  
 It is programmed in an object oriented way. Some of the modules use kind of "classes" in Lua to make it possible to reuse code / classes in other projects.  
