@@ -11,13 +11,12 @@ For further information check out the [documentation](https://raw.githack.com/SI
 
 ## Dependencies
 
-To build this app via AppStudio / VS Code SICK AppSpace SDK its UI builder needs to use the extended control library, available e.g. here:  
-https://support.sick.com/sick-knowledgebase/article/?code=KA-09745
+To build this app via AppStudio / VS Code SICK AppSpace SDK its UI builder needs to use the extended control library, available e.g. [here](https://support.sick.com/sick-knowledgebase/article/?code=KA-10435) or [here](https://support.sick.com/sick-knowledgebase/article/?code=KA-10438):  
 
 ## Information
 
 Tested on:
-|Device|Firmware|Module version
+|Device|Firmware|Module version|
 |--|--|--|
 |SIM300|V1.1.0|V1.0.0|
 |SICK AppEngine|V1.8.0|V1.0.0|
